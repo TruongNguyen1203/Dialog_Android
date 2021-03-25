@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="order_confirmation">truong nguyen</string>
+    <string name="ok">oke</string>
+    <string name="dialog_fire_missiles">fire missiles</string>
+    <string name="fire">fire</string>
+    <string name="cancel">cancel</string>
+</resources>
